@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Victoria Fernandes Rodrigues, vai trabalhar !</h1>
+    return <h1>Leitada, você está no meu site!</h1>
 }
 
 export default Home;
